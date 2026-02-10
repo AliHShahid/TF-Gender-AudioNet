@@ -1,14 +1,12 @@
-# VoxGender-Net: Voice-Based Gender Classification
-
-A professional implementation of a Deep Learning model using **TensorFlow** to classify gender (Male/Female) based on acoustic properties of voice and speech. 
+### Voice-Based Gender Classification
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue.svg)](https://www.kaggle.com/code/alihassanshahid/trained-nnet-on-gender-classification-using-voice)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org)
 
-## 📌 Project Overview
+#### 📌 Project Overview
 The objective of this project is to identify a voice as male or female based on specific acoustic properties. The model is built using a Multi-Layer Perceptron (MLP) neural network architecture.
 
-### Dataset Features
+##### Dataset Features
 The model analyzes 20 distinct acoustic properties, including:
 * **Mean Frequency** (kHz)
 * **Spectral Entropy** and **Flatness**
